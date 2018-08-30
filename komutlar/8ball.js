@@ -7,7 +7,6 @@ const cevaplar = [
     "olabilir",
     "daha sonra tekrar sor",
     "imkansız"
-    "Duahan'a sormak lazım"
 ];
 
 exports.run = function(client, message, args) {
