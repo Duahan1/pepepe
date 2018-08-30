@@ -7,6 +7,7 @@ const cevaplar = [
     "olabilir",
     "daha sonra tekrar sor",
     "imkansız"
+    "Duahan'a sormak lazım"
 ];
 
 exports.run = function(client, message, args) {
@@ -27,7 +28,7 @@ exports.conf = {
 };
 
 exports.help = {
-  name: 'sor', 
-  description: 'Sihirli 8ball sorularınızı cevaplar',
-  usage: 'sor <soru>'
+  name: 'sence', 
+  description: 'Sihirli Passage BOT sorularınızı cevaplar',
+  usage: 'sence <soru>'
 };
