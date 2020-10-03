@@ -28,6 +28,6 @@ exports.conf = {
 
 exports.help = {
   name: 'sence', 
-  description: 'Sihirli Passage BOT sorularınızı cevaplar',
+  description: 'BTP E-SPOR BOT sorularınızı cevaplar',
   usage: 'sence <soru>'
 };
